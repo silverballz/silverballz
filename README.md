@@ -17,6 +17,16 @@ Focused on building at the intersection of **Quantum Machine Learning**, **AI-dr
 
 ---
 
+## ⌚️ Experience
+
+- 🔬 ** AI 4 Agritech Summer Intern – Annam.AI, CoE @ IIT Ropar**  
+  🧩 Worked on applied AI and ML pipelines in agritech and edtech with open-source contributions.
+
+- 🔬 ** AI Developer Intern – Viswam.AI, Swecha Telangana X IIIT Hyderbad**  
+  🧩 Worked on applied AI and ML pipelines in agritech and edtech with open-source contributions.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -26,6 +36,22 @@ Focused on building at the intersection of **Quantum Machine Learning**, **AI-dr
 | 🎮 **Prisoner's Dilemma Simulator** | Game theory simulator exploring multi-strategy interactions in iterated tournaments |
 
 🔗 Check out more on my [GitHub](https://github.com/silverballz)!
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Runner-up – Yuri Night 2025 (IIT BHU)**  
+  🚀 Developed a high-performance ML pipeline to classify real NASA asteroid data. Only first-year team in the top tier.
+
+- 🥇 **Winner – IEEE Data Visualization Challenge (RGIPT)**  
+  📊 Led the team to victory against 100+ competitors by designing an insightful data storytelling dashboard.
+
+- 🧠 **Certificate of Distinction – CeNSE Winter School, IISc Bengaluru**  
+  🧪 Ranked in the top 5% for outstanding performance in a national-level semiconductor technology program.
+
+- 🧑‍💻 **The Newbie Award – Hackmatrix 2025 (IIT Patna)**  
+  🛠️ Recognized for innovation in AI/ML applications in the offline finals — the only first-year finalist.
 
 ---
 
@@ -72,5 +98,5 @@ Focused on building at the intersection of **Quantum Machine Learning**, **AI-dr
 
 ---
 
-> "Code is a canvas. I build with math, machine learning, and quantum logic."  
+> _"Code is a canvas. I build with math, machine learning, and quantum logic."_  
 > — *Anurag Sharma*
