@@ -19,10 +19,10 @@ Focused on building at the intersection of **Quantum Machine Learning**, **AI-dr
 
 ## ⌚️ Experience
 
-- 🔬 ** AI 4 Agritech Summer Intern – Annam.AI, CoE @ IIT Ropar**  
+- 🔬 **AI 4 Agritech Summer Intern – Annam.AI, CoE @ IIT Ropar**  
   🧩 Worked on applied AI and ML pipelines in agritech and edtech with open-source contributions.
 
-- 🔬 ** AI Developer Intern – Viswam.AI, Swecha Telangana X IIIT Hyderbad**  
+- 🔬 **AI Developer Intern – Viswam.AI, Swecha Telangana X IIIT Hyderbad**  
   🧩 Worked on applied AI and ML pipelines in agritech and edtech with open-source contributions.
 
 ---
