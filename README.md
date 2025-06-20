@@ -38,14 +38,14 @@
     <td>🧮</td>
     <td><strong>B.Tech in Mathematics & Computing</strong><br/>
         <em>Rajiv Gandhi Institute of Petroleum Technology (RGIPT)</em><br/>
-        <code>Focus: Applied Mathematics, Algorithms, Data Structures</code>
+        <code>Focus: Financial Engineering, Numerical Analysis, Statistical Analysis</code>
     </td>
   </tr>
   <tr>
     <td>💻</td>
     <td><strong>Minor in Computer Science & Engineering</strong><br/>
         <em>Indian Institute of Technology (IIT) Mandi</em><br/>
-        <code>Specialization: Advanced Computing, Software Engineering</code>
+        <code>Specialization: DSA in Python, SQL, NoSQL, GraphQL, Cloud Computing, Cybersecurity</code>
     </td>
   </tr>
 </table>
@@ -54,18 +54,16 @@
 
 ## ⌚️ Experience
 
-### 🧠 **AI 4 Agritech Intern** — *Annam.AI, CoE @ IIT Ropar*
+### 🧠 **AI Intern** — *Annam.AI @ IIT Ropar*
 ```
 🤖 Built AI/ML pipelines in agritech & edtech with open-source deployments
 🌾 Developed crop disease detection models with 94% accuracy
 📊 Implemented real-time data processing systems using FastAPI & Docker
 ```
 
-### 🧪 **AI Developer Intern** — *Viswam.AI, Swecha Telangana × IIIT Hyderabad*
+### 🧪 **AI Research Intern** — *Prodigal AI*
 ```
-🌱 Applied research and tools for real-world impact across sectors
-🔬 Contributed to multilingual NLP models for regional languages
-⚡ Optimized inference pipelines reducing latency by 60%
+🌱 Works on history of AI Research
 ```
 
 ---
