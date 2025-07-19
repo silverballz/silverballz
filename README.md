@@ -20,141 +20,77 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Quantum+%2B+AI+Researcher;Systems+Programming+Enthusiast;AI+%7C+ML+%7C+QML+Developer;Open+Source+Contributor;Scientific+Computing+Expert" alt="Typing animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=silverballz&color=1E90FF&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/silverballz?color=1E90FF&style=flat-square&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/silverballz?color=1E90FF&style=flat-square&logo=github&label=STARS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=B.Tech+@+RGIPT+%7C+CS+Minor+@+IIT+Mandi;AI+%7C+QML+%7C+Geospatial+%7C+Systems+%7C+Rustacean;Research+Intern+@+Prodigal+AI+%7C+Mentee+@+sktime;🚀+Open+Source+%7C+Hackathons+%7C+Quantum+Projects" alt="Typing animation" />
 </div>
 
 ---
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td>🧮</td>
-    <td><strong>B.Tech in Mathematics & Computing</strong><br/>
-        <em>Rajiv Gandhi Institute of Petroleum Technology (RGIPT)</em><br/>
-        <code>Focus: Financial Engineering, Numerical Analysis, Statistical Analysis</code>
-    </td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><strong>Minor in Computer Science & Engineering</strong><br/>
-        <em>Indian Institute of Technology (IIT) Mandi</em><br/>
-        <code>Specialization: DSA in Python, SQL, NoSQL, GraphQL, Cloud Computing, Cybersecurity</code>
-    </td>
-  </tr>
-</table>
+* 🧮 **B.Tech in Mathematics & Computing**, [RGIPT](https://www.rgipt.ac.in)
+* 💻 **Minor in Computer Science & Advanced Technologies**, [IIT Mandi](https://iitmandi.ac.in)
 
 ---
 
-## ⌚️ Experience
+## 💼 Experience
 
-### 🧠 **AI Intern** — *Annam.AI @ IIT Ropar*
-```
-🤖 Built AI/ML pipelines in agritech & edtech with open-source deployments
-🌾 Developed crop disease detection models with 94% accuracy
-📊 Implemented real-time data processing systems using FastAPI & Docker
-```
+### 🧠 AI Intern — *Annam.AI, IIT Ropar*
 
-### 🧪 **AI Research Intern** — *Prodigal AI*
-```
-```
+* Deployed deep learning pipelines for plant disease detection (F1 ≈ 94%)
+* Built NDVI-based super-resolution models for satellite imagery
+* Tech: PyTorch, FastAPI, PlanetScope, Sentinel-2, Docker, Streamlit
+
+### 🧪 AI Research Intern — *Prodigal AI (Present)*
+
+* Research on Small Language Models, RAG, and multimodal learning
+* Building educational courses, benchmark pipelines, and foundational tooling
+* Focus: LLMs, SLMs, RAG agents, interpretability, agentic reasoning
+
+### ⏳ Mentee — *sktime (July–Sep 2025)*
+
+* Contributed to open-source time series library `sktime`
+* PR: Improved support for white noise augmentation on pandas input
+* Mentorship under the sktime maintainers for ML model reliability
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>⚛️ <strong>Quantum Sentinel</strong></td>
-    <td>Quantum-assisted fraud detection with advanced ML integration</td>
-    <td><code>PennyLane</code> <code>Cirq</code> <code>Streamlit</code></td>
-    <td>🟢 Active</td>
-  </tr>
-  <tr>
-    <td>⏱️ <strong>ChronoQNN</strong></td>
-    <td>Time-evolved Quantum Neural Networks for sequence modeling</td>
-    <td><code>PyTorch</code> <code>PennyLane</code> <code>NumPy</code></td>
-    <td>🟡 Beta</td>
-  </tr>
-  <tr>
-    <td>🦀 <strong>RustQL</strong></td>
-    <td>High-performance quantum computing library in Rust</td>
-    <td><code>Rust</code> <code>WASM</code> <code>Python</code></td>
-    <td>🔵 Dev</td>
-  </tr>
-  <tr>
-    <td>🎮 <strong>Prisoner's Dilemma Simulator</strong></td>
-    <td>Game theory simulator exploring iterated strategic interactions</td>
-    <td><code>Python</code> <code>Matplotlib</code> <code>NumPy</code></td>
-    <td>🟢 Complete</td>
-  </tr>
-</table>
+| Project                        | Description                             | Tech Stack                              | Status    |
+| ------------------------------ | --------------------------------------- | --------------------------------------- | --------- |
+| ⚛️ **Quantum Sentinel**        | Quantum-assisted fraud detection        | `PennyLane`, `Cirq`, `Streamlit`        | 🟢 Active |
+| ⏱️ **ChronoQNN**               | Quantum Neural Networks for time series | `PyTorch`, `PennyLane`                  | 🟡 Beta   |
+| 🔥 **Fire Sentinel**           | Forest fire risk and spread simulation  | `U-Net`, `CA`, `ERA5`, `Streamlit`      | 🟢 Live   |
+| 🌾 **Flood Damage Assessment** | SR-enhanced NDVI + classifier           | `EDSR`, `UNet`, `PlanetScope`           | 🟢 MVP    |
+| 🤖 **YouTube Summarizer**      | Audio-visual summarizer + Chrome plugin | `OpenAI`, `Whisper`, `React`, `FastAPI` | 🔵 Dev    |
 
 🔗 [**Explore All Projects →**](https://github.com/silverballz?tab=repositories)
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
-<div align="center">
-
-| 🏅 **Award** | 🎯 **Event** | 📍 **Institution** | 🎊 **Impact** |
-|-------------|-------------|-------------------|---------------|
-| 🥈 **Runner-up** | Yuri Night 2025 | IIT BHU | NASA asteroid classifier, 1st-year in top 3 |
-| 🥇 **Winner** | IEEE Data Viz Challenge | RGIPT | Visual storytelling, 100+ participants |
-| 🧠 **Top 5%** | CeNSE Winter School | IISc Bengaluru | Excellence in semiconductor tech |
-| 🧑‍💻 **Newbie Award** | Hackmatrix 2025 | IIT Patna | National offline finals, 1st-year finalist |
-
-</div>
+| 🏅 Award                      | Event                      | Organizer  | Highlight                    |
+| ----------------------------- | -------------------------- | ---------- | ---------------------------- |
+| 🥇 Winner                     | IEEE Data Viz              | IEEE RGIPT | Visual AI storytelling       |
+| 🥈 Runner-up                  | Yuri Night 2025            | IIT BHU    | NASA asteroid classifier     |
+| 🏅 Certificate of Distinction | CeNSE Winter School        | IISc       | Top 5% in semiconductor tech |
+| 🧑‍💻 Best Newbie             | Hackmatrix                 | IIT Patna  | Innovation in offline finals |
+| 🧠 Finalist                   | Tech Sangam + Kode Kurrent | IEEE       | Selected across AI tracks    |
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Stack
 
-### 🔹 **Systems & Performance**
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-4682B4?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E90FF?style=flat&logo=python&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-
-### 🔹 **AI & Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logoColor=black)
-
-### 🔹 **Quantum Computing**
-![PennyLane](https://img.shields.io/badge/PennyLane-3F00FF?style=flat&logo=python&logoColor=white)
-![Cirq](https://img.shields.io/badge/Cirq-00BFFF?style=flat&logo=google&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
-
-### 🔹 **Web & Database**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### 🔹 **Visualization & Frontend**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Languages**: Python, Rust, SQL, C++, JavaScript
+**Libraries**: PyTorch, TensorFlow, Scikit-learn, PennyLane, Cirq, Hugging Face
+**Web & Infra**: FastAPI, Docker, Streamlit, PostgreSQL, Redis
+**Geospatial**: NDVI, PlanetScope, Sentinel-2, Rasterio, Earth Engine
+**Dev**: Git, VS Code, Jupyter, Linux CLI
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silverballz&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" />
@@ -168,66 +104,30 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Now Building
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=silverballz&theme=algolia&margin-w=10&no-frame=true&row=2&column=4" />
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Rust         8 hrs 23 mins   ████████████░░░░░░░░░░░░░   48.2%
-Python       4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.4%
-C++          2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.8%
-JavaScript   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.9%
-SQL          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.0%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🌟 Current Focus
-
-```rust
-fn current_interests() -> Vec<&'static str> {
-    vec![
-        "🦀 Systems programming with Rust",
-        "⚛️ Quantum Machine Learning algorithms", 
-        "🧠 Distributed AI training frameworks",
-        "🌐 WebAssembly for scientific computing",
-        "🔬 Cross-platform quantum simulators"
-    ]
-}
+```python
+focus = [
+  "🔥 Fire Sentinel: Forest fire AI toolkit",
+  "🧬 ChronoQNN: Sequence modeling with QNNs",
+  "🌊 Flood Damage Mapping via NDVI Δ",
+  "🤖 SLM Benchmarks for Low-resource AI",
+  "🧠 YouTube Summarizer with Whisper + LLM"
+]
 ```
 
 ---
 
 ## 🤝 Let's Collaborate
 
-<div align="center">
+> If you vibe with AI/ML, quantum stuff, maps, or Rust — hit me up 😄
 
-### 💬 Always open to:
-
-| 🧪 **Research** | 🌍 **Open Source** | 🚀 **Innovation** |
-|----------------|-------------------|-------------------|
-| AI/QML projects | Rust libraries | Hackathons |
-| Scientific computing | Python tools | Mentorship |
-| Quantum algorithms | Documentation | Tech talks |
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/silverballz/silverballz/output/github-contribution-grid-snake-dark.svg" />
-</div>
+</p>
 
-<div align="center">
-  <i>⚡ "The future belongs to those who learn quantum computing and systems programming"</i>
-</div>
+<p align="center">
+  <i>⚡ “Mathematics, AI, and Quantum — that’s my holy trinity.”</i>
+</p>
 
 <!-- GitHub README END -->
