@@ -34,19 +34,19 @@
 
 ## 💼 Experience
 
-### 🧠 AI Intern — *Annam.AI, IIT Ropar*
+### 🧠 AI Intern — *Annam.AI, IIT Ropar (June-July 2025)*
 
-* Deployed deep learning pipelines for plant disease detection (F1 ≈ 94%)
+* Built a flood damage classification and assesment pipeline with cloud filtering
 * Built NDVI-based super-resolution models for satellite imagery
 * Tech: PyTorch, FastAPI, PlanetScope, Sentinel-2, Docker, Streamlit
 
-### 🧪 AI Research Intern — *Prodigal AI (Present)*
+### 🧪 AI Research Intern — *Prodigal AI (July 2025-Present)*
 
 * Research on Small Language Models, RAG, and multimodal learning
 * Building educational courses, benchmark pipelines, and foundational tooling
 * Focus: LLMs, SLMs, RAG agents, interpretability, agentic reasoning
 
-### ⏳ Mentee — *sktime (July–Sep 2025)*
+### ⏳ Mentee — *sktime (July 2025-Present)*
 
 * Contributed to open-source time series library `sktime`
 * PR: Improved support for white noise augmentation on pandas input
@@ -72,11 +72,11 @@
 
 | 🏅 Award                      | Event                      | Organizer  | Highlight                    |
 | ----------------------------- | -------------------------- | ---------- | ---------------------------- |
-| 🥇 Winner                     | IEEE Data Viz              | IEEE RGIPT | Visual AI storytelling       |
-| 🥈 Runner-up                  | Yuri Night 2025            | IIT BHU    | NASA asteroid classifier     |
+| 🥇 Winner                     | IEEE Data Viz              | IEEE RGIPT | Visual AI storytelling (Team Leader)       |
+| 🥈 Runner-up                  | Yuri Night 2025            | IIT BHU    | NASA asteroid classifier (Team Leader)    |
 | 🏅 Certificate of Distinction | CeNSE Winter School        | IISc       | Top 5% in semiconductor tech |
-| 🧑‍💻 Best Newbie             | Hackmatrix                 | IIT Patna  | Innovation in offline finals |
-| 🧠 Finalist                   | Tech Sangam + Kode Kurrent | IEEE       | Selected across AI tracks    |
+| 🧑‍💻 Best Newbie             | IIT Patna Hackmatrix  2025    | NJACK      | Outstanding 1st Year Student Innovation in finals (Team Leader) |
+| 🧠 Finalist                   | Tech Sangam + Kode Kurrent | IEEE  SBs     | Didn't participate in the finals due to prior engagements   |
 
 ---
 
@@ -111,7 +111,6 @@ focus = [
   "🔥 Fire Sentinel: Forest fire AI toolkit",
   "🧬 ChronoQNN: Sequence modeling with QNNs",
   "🌊 Flood Damage Mapping via NDVI Δ",
-  "🤖 SLM Benchmarks for Low-resource AI",
   "🧠 YouTube Summarizer with Whisper + LLM"
 ]
 ```
