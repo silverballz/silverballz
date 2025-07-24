@@ -36,6 +36,7 @@
 
 ### 🧠 AI Intern — *Annam.AI, IIT Ropar (June-July 2025)*
 
+* The only First Year B.Tech. Student among all interns
 * Built a flood damage classification and assesment pipeline with cloud filtering
 * Built NDVI-based super-resolution models for satellite imagery
 * Tech: PyTorch, FastAPI, PlanetScope, Sentinel-2, Docker, Streamlit
