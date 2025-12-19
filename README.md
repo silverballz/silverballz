@@ -1,5 +1,3 @@
-<!-- GitHub README START -->
-
 <h1 align="center" style="color:#1E90FF;">
   👋 Hi there, I'm <span style="color:#007ACC;">Anurag Sharma</span>
 </h1>
@@ -14,80 +12,91 @@
   <a href="mailto:anuragmessi5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/michel_simp">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=B.Tech+@+RGIPT+%7C+CS+Minor+@+IIT+Mandi;AI+%7C+QML+%7C+Geospatial+%7C+Systems+%7C+Rustacean;Research+Intern+@+Prodigal+AI+%7C+Mentee+@+sktime;🚀+Open+Source+%7C+Hackathons+%7C+Quantum+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=B.Tech+Maths+%26+Computing+%40+RGIPT;Minor+in+CS+%40+IIT+Mandi;AI+ML+%7C+Geospatial+%7C+Quantum+ML+%7C+Fractals;Research+Intern+%40+IIT+Ropar+%7C+Dept.+of+Energy+RGIPT;Open+Source+%7C+Hackathons+%7C+Conference+Talks" alt="Typing animation" />
 </div>
 
 ---
 
 ## 🎓 Education
 
-* 🧮 **B.Tech in Mathematics & Computing**, [RGIPT](https://www.rgipt.ac.in)
-* 💻 **Minor in Computer Science & Advanced Technologies**, [IIT Mandi](https://iitmandi.ac.in)
+- 🧮 **B.Tech in Mathematics & Computing**, [RGIPT, Jais](https://www.rgipt.ac.in) — *2024–2028*  
+- 💻 **Minor in Computer Science & Engineering**, [IIT Mandi](https://iitmandi.ac.in) — *2024–2025*
 
 ---
 
 ## 💼 Experience
 
-### 🧠 AI Intern — *Annam.AI, IIT Ropar (June-July 2025)*
+### 🧠 AI Research Intern — *Indian Institute of Technology Ropar* (Jun 2025 – Jul 2025)
 
-* The only First Year B.Tech. Student among all interns
-* Built a flood damage classification and assesment pipeline with cloud filtering
-* Built NDVI-based super-resolution models for satellite imagery
-* Tech: PyTorch, FastAPI, PlanetScope, Sentinel-2, Docker, Streamlit
+- Developed **FLNet**, an end-to-end deep learning framework for flood-induced agricultural damage assessment using Sentinel-2 and PlanetScope imagery under **Dr. Mukesh Saini**. [file:1]  
+- Designed **EDSR/RCAN-based** super-resolution models to enhance NDVI from 10 m to 3 m for parcel-level analysis in smallholder farming regions.
+- Integrated ΔNDVI feature engineering with **U-Net**, achieving **F1 = 0.89** for full-damage detection using only free satellite data.
 
-### 🧪 AI Research Intern — *Prodigal AI (July 2025-Present)*
+> 📄 *FLNet accepted as a book chapter in Springer CCIS (CVIP 2025, IIT Ropar).*
 
-* Research on Small Language Models, RAG, and multimodal learning
-* Building educational courses, benchmark pipelines, and foundational tooling
-* Focus: LLMs, SLMs, RAG agents, interpretability, agentic reasoning
+### ⚙️ Project Intern — *Department of Energy Sciences, RGIPT* (Jan 2025 – Feb 2025)
 
-### ⏳ Mentee — *sktime (July 2025-Present)*
-
-* Contributed to open-source time series library `sktime`
-* PR: Improved support for white noise augmentation on pandas input
-* Mentorship under the sktime maintainers for ML model reliability
+- Worked with **Dr. Malaya Kumar Sahoo** on applied engineering design and prototyping tasks for R&D projects.
+- Created AutoCAD drawings and layouts for prototype models supporting fabrication, assembly, and transportation for **India Energy Week (IEW) 2025** proposals.
+- Collaborated with **Numaligarh Refinery Limited (NRL)** and academic leadership, gaining exposure to industry-grade design workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                        | Description                             | Tech Stack                              | Status    |
-| ------------------------------ | --------------------------------------- | --------------------------------------- | --------- |
-| ⚛️ **Quantum Sentinel**        | Quantum-assisted fraud detection        | `PennyLane`, `Cirq`, `Streamlit`        | 🟢 Active |
-| ⏱️ **ChronoQNN**               | Quantum Neural Networks for time series | `PyTorch`, `PennyLane`                  | 🟡 Beta   |
-| 🔥 **Fire Sentinel**           | Forest fire risk and spread simulation  | `U-Net`, `CA`, `ERA5`, `Streamlit`      | 🟢 Live   |
-| 🌾 **Flood Damage Assessment** | SR-enhanced NDVI + classifier           | `EDSR`, `UNet`, `PlanetScope`           | 🟢 MVP    |
-| 🤖 **YouTube Summarizer**      | Audio-visual summarizer + Chrome plugin | `OpenAI`, `Whisper`, `React`, `FastAPI` | 🔵 Dev    |
+| Project         | What it does                                                                 | Tech Stack                                                                 | Notes        |
+|-----------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|
+| 🌾 **AgriFlux** | AI-powered crop health, soil, and pest risk monitoring via multispectral data | `Python`, `PyTorch`, `Streamlit`, `FastAPI`, `Sentinel-2`, `Multispectral` | SIH 2025 GF prototype  |
+| 🌀 **FracTek**  | Modular computational fractal library with 15+ fractal families and 3D viz   | `Python`, `NumPy`, `Mathematical Modeling`, `Visualization`                | PyPI package for research/edu  |
+| ⚛️ **Quantum Sentinel** | Quantum–classical hybrid fraud detection with VQC on real-scale data | `Cirq`, `Python`, `Quantum ML`, `SMOTE`                                   | 285k+ transactions pipeline  |
 
-🔗 [**Explore All Projects →**](https://github.com/silverballz?tab=repositories)
+🔗 **More repos & experiments →** [github.com/silverballz?tab=repositories](https://github.com/silverballz?tab=repositories)
 
 ---
 
-## 🏆 Achievements
+## 🏆 Honours & Awards
 
-| 🏅 Award                      | Event                      | Organizer  | Highlight                    |
-| ----------------------------- | -------------------------- | ---------- | ---------------------------- |
-| 🥇 Winner                     | IEEE Data Viz              | IEEE RGIPT | Visual AI storytelling (Team Leader)       |
-| 🥈 Runner-up                  | Yuri Night 2025            | IIT BHU    | NASA asteroid classifier (Team Leader)    |
-| 🏅 Certificate of Distinction | CeNSE Winter School        | IISc       | Top 5% in semiconductor tech |
-| 🧑‍💻 Best Newbie             | IIT Patna Hackmatrix  2025    | NJACK      | Outstanding 1st Year Student Innovation in finals (Team Leader) |
-| 🧠 Finalist                   | Tech Sangam + Kode Kurrent | IEEE  SBs     | Didn't participate in the finals due to prior engagements   |
+- 🧠 **Smart India Hackathon (SIH) 2025** — Finalist & Team Leader, MathWorks India problem (SIH25099); built an AI-powered multispectral crop monitoring platform.   
+- 🏆 **IIT Patna NJACK Hackmatrix 2025** — Track Winner (Quantum ML) & Newbie Champion (First-Year category). 
+- 🪐 **Planet Hunt ML Challenge 2025 (IIT BHU)** — Runner-up & Team Leader for asteroid hazard risk classification.  
+- 🎓 **IISc CeNSE Winter School** — Certificate of Distinction in advanced semiconductor physics.   
+
+---
+
+## 📚 Publications & Talks
+
+- 📘 **FLNet: Flood-Induced Agriculture Damage Assessment using Super Resolution of Satellite Images** — Book chapter (Springer CCIS), CVIP 2025, IIT Ropar.  
+- 🧾 **Harnessing Generative AI to Enhance Reservoir Property Modeling with Uncertainty Quantification** — Published in EAGE/FESM “Petrophysics meets Geoscience 2025”, Kuala Lumpur (oral). 
+
+**Accepted / Delivered Talks**   
+- 🎤 Context-Aware Multi-Modal Learning for High-Resolution Reservoir Property Modeling — *EAGE Digitalization 2026, Norway* (oral). 
+- 🎤 Quantum-Enhanced Large Language Models for Accelerated Text Generation — *ICMC 2026, Jaipur* (oral).
+- 🎤 Real-Time Multiphase Flow Simulation in Porous Media using Hybrid PINNs — *ICPHD 2025, RGIPT* (oral).  
 
 ---
 
 ## 🛠️ Skills & Stack
 
-**Languages**: Python, Rust, SQL, C++, JavaScript
-**Libraries**: PyTorch, TensorFlow, Scikit-learn, PennyLane, Cirq, Hugging Face
-**Web & Infra**: FastAPI, Docker, Streamlit, PostgreSQL, Redis
-**Geospatial**: NDVI, PlanetScope, Sentinel-2, Rasterio, Earth Engine
-**Dev**: Git, VS Code, Jupyter, Linux CLI
+- **Programming & Scientific Computing**: Python, MATLAB, C++, Rust, LaTeX  
+- **ML & DL**: PyTorch, TensorFlow, XGBoost, LightGBM, U-Net, EDSR, RCAN, PINNs [file:1]  
+- **Remote Sensing & Geospatial**: Multispectral imagery (Sentinel-2, PlanetScope), GeoPandas, QGIS   
+- **Quantum Computing & QML**: Quantum–classical hybrids, Cirq, PennyLane, Qiskit  
+- **Data Engineering & Systems**: FastAPI, Streamlit, SQL, Docker, Git, REST APIs, interactive dashboards 
+- **Modeling**: Fractals & dynamical systems, numerical modeling, multiphase flow simulation 
+
+---
+
+## 🌐 Communities
+
+- **ACM (Student Member)** — Engaging with research in AI/ML, CV, and systems. 
+- **EAGE (Student Member)** — AI Community; presenter at Kuala Lumpur 2025 & EAGE Digital 2026.
+- **EMS (Member)** — Active in applied and computational mathematics literature and seminars. 
 
 ---
 
@@ -105,29 +114,14 @@
 
 ---
 
-## 🌟 Now Building
+## 🤝 Let’s Collaborate
 
-```python
-focus = [
-  "🔥 Fire Sentinel: Forest fire AI toolkit",
-  "🧬 ChronoQNN: Sequence modeling with QNNs",
-  "🌊 Flood Damage Mapping via NDVI Δ",
-  "🧠 YouTube Summarizer with Whisper + LLM"
-]
-```
+> If you vibe with **AI/ML**, **geospatial analytics**, **quantum ML**, or **fractals & numerical modeling** — feel free to reach out.
 
----
-
-## 🤝 Let's Collaborate
-
-> If you vibe with AI/ML, quantum stuff, maps, or Rust — hit me up 😄
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/silverballz/silverballz/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <i>⚡ “Mathematics, AI, and Quantum — that’s my holy trinity.”</i>
 </p>
+
 
 <!-- GitHub README END -->
