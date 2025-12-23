@@ -12,7 +12,7 @@
   <a href="mailto:anuragmessi5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/">
+  <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=1psoSFkAAAAJ&hl=en)/">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 </p>
