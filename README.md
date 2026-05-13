@@ -35,6 +35,11 @@ Minor Degree — *Computer Science and Engineering* (2024–2025)
 
 # 💼 Work Experience
 
+### Summer Intern — NRSC, Indian Space Research Organisation (ISRO)
+*May 2026 – July 2026*
+
+- Working at Regional Remote Sensing Centre - West (RRSC-W), National Remote Sensing Centre (NRSC), ISRO, Jodhpur
+
 ### AI Research Intern — IIT Ropar
 *June 2025 – July 2025*
 
