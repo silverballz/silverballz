@@ -217,3 +217,5 @@ feel free to reach out!
 <p align="center">
 ⚡ “Mathematics, AI, and Remote Sensing — my holy trinity.”
 </p>
+
+![](https://komarev.com/ghpvc/?username=silverballz)
